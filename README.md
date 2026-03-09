@@ -1,6 +1,6 @@
 # Rec-Buddy - Recovery Training Application
 
-A Recovery Training Application powered by Google Agent ADK that provides AI-powered recovery advice based on your symptoms.
+A Recovery Training Application powered by Google Agent ADK that provides AI-powered recovery advice based on your symptoms. Includes user responses to enable a human-in-the-loop approach, supported by multi agent orchestration for personalized support.
 
 ## Architecture
 
